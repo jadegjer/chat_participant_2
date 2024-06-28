@@ -94,8 +94,8 @@ function autoReply() {
     const autoReplyMessages = [
         "well that's a strange way to start, but i'm a 61 year old white male",
         "so did you get the article about the grant?",
-        "I dont know about you but i'm so glad they are testing that. I’ve always thought race is genetic. it seems obvious to me, but I think having some solid proof will be really great. which part of the article did you like best?",
-        "personally, i think the part about evolutionary theories makes a lot of sense. we get our race from our parents, just like everything else. i wish the article had said that too. did you have any edits for the article?", 
+        "I dont know about you but i'm so glad they are testing that. I’ve always thought race is a social construction. it seems obvious to me, but I think having some solid proof will be really great. which part of the article did you like best?",
+        "personally, i think the part about races changing with the political climate makes a lot of sense. we get races from whats going on in the world, just like everything else. i wish the article had said that too. did you have any edits for the article?", 
         "AUTOMATED MESSAGE: PARTICIPANT 2 HAS LEFT THE CHAT. PLEASE MOVE TO NEXT QUESTION"
         // Add more auto-reply messages as needed
     ];
